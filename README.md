@@ -1,5 +1,7 @@
 # Curvas de Rotação de Galáxias e Gravidade Modificada
 
+[![DOI](https://zenodo.org/badge/10.5281/zenodo.23681694.svg)](https://doi.org/10.5281/zenodo.23681694)
+
 Códigos em Python desenvolvidos para o meu Trabalho de Conclusão de Curso (TCC) em Bacharelado em Física na Universidade Federal do Oeste da Bahia (UFOB).
 
 * **Autor:** Westter Alves Vieira
@@ -21,4 +23,3 @@ Os ajustes foram aplicados à galáxia UGC 2885 (Galáxia de Rubin) e estendidos
 
 ```bash
 pip install -r requirements.txt
-
