@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Se você usar este código, por favor cite o TCC."
+authors:
+  - family-names: Vieira
+    given-names: Westter Alves
+    url: "http://lattes.cnpq.br/8558082001240942"
+title: "Curvas de Rotação de Galáxias e Gravidade Modificada"
+version: 1.0.0
+date-released: 2026-10-27
+url: "https://github.com/westteralves/curvas-de-rotacao-de-galaxias-e-gravidade-modificada"
+license: MIT
